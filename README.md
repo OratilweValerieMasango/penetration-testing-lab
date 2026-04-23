@@ -23,7 +23,8 @@
 
 ## 📄 Report
 
-👉 
+👉  [View Project](./ORATILWE%20MASANGO.docx)
+👉 [View Report](./Pentest_Report.docx)
 
 ---
 
