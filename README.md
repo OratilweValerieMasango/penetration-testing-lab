@@ -14,7 +14,14 @@
 * Provided remediation recommendations
 
 ---
+## 🎯 Impact
 
+- Identified critical and high-risk vulnerabilities within a simulated enterprise environment  
+- Analysed potential attack vectors and system weaknesses  
+- Demonstrated how attackers exploit systems using tools like Nmap and Metasploit  
+- Provided actionable remediation strategies to strengthen security posture
+
+---
 ## 🛠️ Tools
 
 `Nmap` `Metasploit`
